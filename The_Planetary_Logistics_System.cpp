@@ -41,4 +41,5 @@ int main(){
     std::cout << "Calculated Weight on Earth: " << Weight * Earth::GRAVITY << '\n';
     std::cout << "Calculated Weight on Mars: " << Weight * Mars::GRAVITY << '\n';
 
+    return 0;
 }
